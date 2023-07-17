@@ -10,8 +10,6 @@ The main aim of the game is to keep running and dodging the obstacles on the way
 
 ![main](MainMenu.png)
 
-![main2](MainMenu.png)
-
 ![game](GamePlay.png)
 
 ![end](EndMenu.png)
